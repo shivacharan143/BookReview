@@ -116,6 +116,6 @@ A RESTful API for managing books and reviews with user authentication.
 - `DELETE /reviews/:id` - Delete your review (Authenticated)
 
 ### .env file
-MONGODB_URI="mongodb+srv://vsc143341:Shiva@cluster0.5hjbpvg.mongodb.net/bookreview?"
+MONGODB_URI="mongodb+srvmongodb.net/bookreview?" // Add your own cluster of mongodb
 JWT_SECRET="Anykey"
 PORT=5000
